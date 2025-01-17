@@ -1,3 +1,3 @@
 # SiArtPalaToEh
 portfolio
-# https://artpregoner.github.io/SiArtPalaToEh/
+# https://artpregoner.github.io/ArtJavarPregoner/
